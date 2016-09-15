@@ -1,3 +1,4 @@
 # mega-sena-hadoop
-Testar MapReduce Offline: cat data/mega.txt | ./code/quantidadeTotal/mapper.py | sort | ./code/quantidadeTotal/reducer.py
-Testar MapReduce Offline: cat data/mega.txt | ./code/valorTotal/mapper.py | sort | ./code/valorTotal/reducer.py
+Todos os códigos utilizados estão dentro da pasta code/
+O conjunto de dados utilizado se encontra em data/
+O relatório está no diretório report/
